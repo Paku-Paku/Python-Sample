@@ -1,3 +1,2 @@
 # test
-this repository is testing.
-    
+This repository is for testing to register Python code.
